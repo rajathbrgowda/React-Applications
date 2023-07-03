@@ -1,2 +1,6 @@
 # React-Applications
-All practice applications at one place
+All practice applications in one place
+
+### To start any application
+>npm install
+>npm start
