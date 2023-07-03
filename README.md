@@ -2,5 +2,5 @@
 All practice applications in one place
 
 ### To start any application
->npm install
+>npm install <br>
 >npm start
